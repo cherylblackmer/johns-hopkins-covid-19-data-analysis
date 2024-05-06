@@ -15,5 +15,5 @@ The datasets used in this analysis are publicly available and maintained by John
 ## Files in the Repository
 
 - `Analysis.Rmd`: R Markdown document containing the complete analysis code and documentation.
-- `Analysis.pdf`: Compiled PDF version of the R Markdown analysis.
+- `JHU_Data_Project.pdf`: Compiled PDF version of the R Markdown analysis.
 - `Data/`: Directory containing data files used in the analysis.
